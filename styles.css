@@ -775,6 +775,17 @@ a {
   border: 0;
 }
 
+.video-heading-tiktok {
+  margin-top: 2.25rem;
+}
+
+.video-frame-tiktok {
+  width: min(100%, 420px);
+  margin: 0 auto;
+  aspect-ratio: 9 / 16;
+  max-height: 760px;
+}
+
 /* TOKENOMICS */
 .tokenomics {
   background:
